@@ -37,16 +37,6 @@
           "settings": {
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -61,7 +51,6 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
         "share"
       ],
       "settings": {

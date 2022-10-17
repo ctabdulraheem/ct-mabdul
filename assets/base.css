@@ -2255,6 +2255,13 @@ input[type='checkbox'] {
   align-items: center;
 }
 
+/* Custom CSS */
+#shopify-section-template--16639953043750__featured_collection .title-wrapper--no-top-margin > .title {
+  text-align: center;
+}
+
+
+
 @media screen and (min-width: 990px) {
   .header--top-left,
   .header--middle-left:not(.header--has-menu) {

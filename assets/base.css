@@ -2260,7 +2260,10 @@ input[type='checkbox'] {
   text-align: center;
 }
 
-
+#shopify-section-template--16639952912678__banner .collection-hero__title {
+  text-align: center;
+  font-weight: 700;
+}
 
 @media screen and (min-width: 990px) {
   .header--top-left,
